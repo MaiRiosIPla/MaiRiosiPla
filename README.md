@@ -1,4 +1,6 @@
-Oops! This readme got deleted yesterday and i'm Working on it again 😅
+Oops! This readme got deleted yesterday and I'm working on it again 😅
+
+As a temporal thing, check out my personal website: [joanriosipla.github.io](https://joanriosipla.github.io)
 
 <!--
 **JoanRiosiPla/JoanRiosiPla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
