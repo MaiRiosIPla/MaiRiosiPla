@@ -1,4 +1,4 @@
-Hi there! I'm Joan, and I love coding and being creative. I'm currently studying in my last year of high school, but I have learnt how to code on my own.
+Hi there! I'm Joan, and I love coding and being creative. I'm currently studying in my last year of high school, but I have learnt how to code on my own 😌.
 
 I can code in:
 - C++
