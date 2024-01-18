@@ -1,6 +1,20 @@
-Oops! This readme got deleted and I'm working on it again 😅
+Hi there! I'm Joan, and I love coding and being creative. I'm currently studying in my last year of high school, but I have learnt how to code on my own.
 
-As a temporal thing, check out my personal website: [joanriosipla.github.io](https://joanriosipla.github.io)
+I can code in:
+- C++
+- Python (Flask)
+- HTML, CSS, and JavaScript
+- I'm also learning React and Node.
+- Not related, but I love pixel art, and I'm learning to draw "properly".
+
+Please, check out some of my cool projects 🥺:
+- Scratch games
+- Communopoly
+- Beneit.cat
+- Scratching The Surface
+TODO: Add links :)
+
+Want to know more? Check out my ✨awesome✨ personal website: [joanriosipla.github.io](https://joanriosipla.github.io)
 
 <!--
 **JoanRiosiPla/JoanRiosiPla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
