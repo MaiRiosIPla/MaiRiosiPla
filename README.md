@@ -12,6 +12,7 @@ Please, check out some of my cool projects 🥺:
 - Communopoly
 - Beneit.cat
 - Scratching The Surface
+
 TODO: Add links :)
 
 Want to know more? Check out my ✨awesome✨ personal website: [joanriosipla.github.io](https://joanriosipla.github.io)
