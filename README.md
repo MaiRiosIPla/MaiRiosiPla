@@ -13,8 +13,6 @@ Please, check out some of my cool projects 🥺:
 - [Scratching The Surface](https://www.youtube.com/@ScratchingTheSurfaceYT)
 - [Scratch games](https://scratch.mit.edu/users/coyote_coyota/)
 
-TODO: Add links :)
-
 Want to know more? Check out my ✨awesome✨ personal website: [joanriosipla.github.io](https://joanriosipla.github.io)
 
 <!--
