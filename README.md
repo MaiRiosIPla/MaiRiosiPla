@@ -13,6 +13,7 @@ Please, check out some of my cool projects 🥺:
 - [Scratch games](https://scratch.mit.edu/users/coyote_coyota/)
 
 Want to know more? Check out my ✨awesome✨ personal website: [joanriosipla.github.io](https://joanriosipla.github.io)
+Also, I would love to talk to you on social media, so don't be afraid of saying hello: [Instagram](https://www.instagram.com/_joanrios)
 
 <!--
 **JoanRiosiPla/JoanRiosiPla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
