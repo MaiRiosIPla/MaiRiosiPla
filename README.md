@@ -1,11 +1,10 @@
 Hi there! I'm Joan, and I love coding and being creative. I'm currently studying in my last year of high school, but I have learnt how to code on my own 😌.
 
-I can code in:
-- C++
-- Python (Flask)
-- HTML, CSS, and JavaScript
+I can do a lot of things:
+- Code in C++, Python (and Flask),  HTML, CSS, and JavaScript.
+- Design in Figma (check out [one of my designs](https://joanriosipla.github.io/AgentTruk/))
 - I'm also learning React and Node.
-- Not related, but I love pixel art, and I'm learning to draw "properly".
+- Not related, but I love pixel art, and now I'm learning to draw "properly", with pen and paper.
 
 Please, check out some of my cool projects 🥺:
 - [My own card game (ft. My lovely sis)](https://joanriosipla.github.io/AgentTruk/)
