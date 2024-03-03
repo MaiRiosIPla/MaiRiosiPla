@@ -8,10 +8,10 @@ I can code in:
 - Not related, but I love pixel art, and I'm learning to draw "properly".
 
 Please, check out some of my cool projects 🥺:
-- Scratch games
-- Communopoly
-- Beneit.cat
-- Scratching The Surface
+- [My own card game (ft. My lovely sis)](https://joanriosipla.github.io/AgentTruk/)
+- [Beneit.cat](https://beneit.cat/)
+- [Scratching The Surface](https://www.youtube.com/@ScratchingTheSurfaceYT)
+- [Scratch games](https://scratch.mit.edu/users/coyote_coyota/)
 
 TODO: Add links :)
 
