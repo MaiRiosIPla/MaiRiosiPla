@@ -8,8 +8,7 @@ I can do a lot of things:
 
 Please, check out some of my cool projects 🥺:
 - [My own card game (ft. My lovely sis)](https://joanriosipla.github.io/AgentTruk/)
-- [Beneit.cat](https://beneit.cat/)
-- [Scratching The Surface](https://www.youtube.com/@ScratchingTheSurfaceYT)
+- [Beneit.cat](https://joanriosipla.github.io/BENEIT/) (Not paying the domain anymore)
 - [Scratch games](https://scratch.mit.edu/users/coyote_coyota/)
 
 Want to know more? Check out my ✨awesome✨ personal website: [joanriosipla.github.io](https://joanriosipla.github.io)
