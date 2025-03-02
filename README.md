@@ -1,4 +1,4 @@
-Hi there! I'm Joan, and I love coding and being creative. I'm currently studying in my last year of high school, but I have learnt how to code on my own 😌.
+Hi there! I'm Mai, and I love coding and being creative. I'm currently in between studies, and I have learnt how to code on my own 😌.
 
 I can do a lot of things:
 - Code in C++, Python (and Flask),  HTML, CSS, and JavaScript.
