@@ -11,7 +11,7 @@ Please, check out some of my cool projects 🥺:
 - [Beneit.cat](https://joanriosipla.github.io/BENEIT/) (Not paying the domain anymore)
 - [Scratch games](https://scratch.mit.edu/users/coyote_coyota/)
 
-Want to know more? Check out my ✨awesome✨ personal website: [mairiosipla.github.io](https://mairiosipla.github.io)
+Want to know more? Check out my ✨awesome✨ personal website: [nak.kiwi](https://nak.kiwi)
 Also, I would love to talk to you on social media, so don't be afraid of saying hello: [Instagram](https://www.instagram.com/_joanrios)
 
 <!--
