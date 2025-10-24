@@ -1,6 +1,6 @@
-Hi there! I'm Mai, and I love coding and being creative. I'm currently in between studies, and I have learnt how to code on my own 😌.
+Hii there! I'm ⟡˚Mai₊⟡, an nb designer, coder, and above all, tinkerer.
 
-I can do a lot of things:
+I kinda do a lot of things:
 - Code in C++, Python (and Flask),  HTML, CSS, and JavaScript.
 - Design in Figma (check out [one of my designs](https://mairiosipla.github.io/AgentTruk/))
 - I'm also learning React and Node.
@@ -12,4 +12,4 @@ Please, check out some of my cool projects 🥺:
 - [Scratch games](https://scratch.mit.edu/users/coyote_coyota/)
 
 Want to know more? Check out my ✨awesome✨ personal website: [nak.kiwi](https://nak.kiwi)
-Also, I would love to talk to you on social media, so don't be afraid of saying hello: [Instagram](https://www.instagram.com/nak.kiwi)
+Also, I would love to talk to you on social media, so don't be afraid of saying hi: [Instagram](https://www.instagram.com/nak.kiwi)
