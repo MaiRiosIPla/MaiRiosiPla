@@ -1,7 +1,7 @@
 Hii there! I'm ⟡˚Mai₊⟡, an nb designer, coder, and above all, tinkerer.
 
 I kinda do a lot of things:
-- Code in C++, Python (and Flask),  HTML, CSS, and JavaScript.
+- Code in Typescripst, HTML, CSS (and i weirdly love css), and well, C, C++, Java, Python...
 - Design in Figma (check out [one of my designs](https://mairiosipla.github.io/AgentTruk/))
 - I'm also learning React and Node.
 - Not related, but I love pixel art, and now I'm learning to draw "properly", with pen and paper.
