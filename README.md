@@ -4,8 +4,7 @@ I kinda do a lot of things:
 - Code in Typescripst, HTML, CSS (and i weirdly love css), and well, C, C++, Java, Python...
 - Design in Figma (check out [one of my designs](https://mairiosipla.github.io/AgentTruk/))
 - I'm also learning React and Node.
-- Not related, but I love pixel art, and now I'm learning to draw "properly", with pen and paper.
-
+- 
 Please, check out some of my cool projects 🥺:
 - [My own card game (ft. My lovely sis)](https://mairiosipla.github.io/AgentTruk/)
 - [Beneit.cat](https://mairiosipla.github.io/BENEIT/) (Not paying the domain anymore)
