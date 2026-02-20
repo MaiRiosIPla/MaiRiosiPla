@@ -3,12 +3,7 @@ Hii there! I'm ⟡˚Mai₊⟡, an nb designer, coder, and above all, tinkerer.
 I kinda do a lot of things:
 - Code in Typescripst, HTML, CSS (and i weirdly love css), and well, C, C++, Java, Python...
 - Design in Figma (check out [one of my designs](https://mairiosipla.github.io/AgentTruk/))
-- I'm also learning React and Node.
-- 
-Please, check out some of my cool projects 🥺:
-- [My own card game (ft. My lovely sis)](https://mairiosipla.github.io/AgentTruk/)
-- [Beneit.cat](https://mairiosipla.github.io/BENEIT/) (Not paying the domain anymore)
-- [Scratch games](https://scratch.mit.edu/users/coyote_coyota/)
-
-Want to know more? Check out my ✨awesome✨ personal website: [nak.kiwi](https://nak.kiwi)
+- I'm also using React and Node.
+  
+Please, check out some of my cool projects and check out my ✨awesome✨ personal website: [nak.kiwi](https://nak.kiwi)
 Also, I would love to talk to you on social media, so don't be afraid of saying hi: [Instagram](https://www.instagram.com/nak.kiwi)
