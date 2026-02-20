@@ -1,4 +1,4 @@
-Hii there! I'm ⟡˚Mai₊⟡, an nb designer, coder, and above all, tinkerer.
+Hii there! I'm ⟡˚Mai₊⟡, an nb designer, developer, and above all, tinkerer.
 
 I kinda do a lot of things:
 - Code in Typescripst, HTML, CSS (and i weirdly love css), and well, C, C++, Java, Python...
